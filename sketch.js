@@ -39,6 +39,6 @@ function draw(){
     game.play();
   }
   if(gameState === 2){
-    game.end();
+    game.end();               
   }
 }
